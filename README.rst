@@ -3,6 +3,9 @@ Bad Unsubscribe Pages
 
 Shaming sites with bad unsubscribe pages.
 
+(`Just like dumb password rules
+<https://github.com/dumb-password-rules/dumb-password-rules>`_)
+
 Contributing
 ------------
 
